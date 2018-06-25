@@ -54,4 +54,5 @@ Planificamos las tareas en:
 (https://trello.com/b/34wrBF5P/datadashboard)
 
 ### Data dashboard
+Visita nuestro data en el siguiente link:
 (https://natichan.github.io/scl-2018-05-bc-core-pm-datadashboard/src/index.html)
