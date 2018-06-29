@@ -25,6 +25,34 @@ estuviera integrado en su sesión LMS.
 hemos decidido crear una plataforma que se encontrará dentro de su sesión de LMS, que les permitirá 
 acceder a estos datos tales como; porcentajes de lecturas realizados, quizzes, retos, completitud de
 los cursos, etc, de manera más rápida, comoda y visualmente más acogedora.
+### Entrevista a training Manager
+
+PREGUNTAS
+1.- ¿Cuantas training manager hay en laboratoria Chile?
+R: Es una training Manager por cede.
+
+2.- ¿Tienen alguna plataforma en la cual puedan visualizar de manera ordenada los porcentajes que obtienen de LMS?
+R: En estos momentos solo es un exel.
+
+3.-  ¿Cuál es el problema puntual de esa muestra de datos ?
+ R: problemas de visualización, estética.
+
+4.- ¿Cual es la finalidad de tener una interfaz que te enseñe los datos de las alumnas de manera ordenada y en porcentaje?
+R: simplificar el proceso de toma de decisiones (repasar materia , detener el avance, preguntar que pasa, etc).
+
+5.- ¿Cada cuanto revisas los datos de LMS?
+R: a diario
+
+6.- ¿Qué datos son los que te gustaría ver en esta plataforma?
+R: un listado completo de las alumnas descendente en cuanto a retos realizados de su LMS.
+
+7.- ¿Comó te gustaría que fuera esta plataforma?
+R: muy de Laboratoria jajajaja , colores y tipografías , minimalista.
+
+8.- ¿Te gustaría que el sitio fuera privado o de uso publico?
+R : privado.
+
+
 
 ## Proceso de creación
 
