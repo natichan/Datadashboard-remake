@@ -22,9 +22,6 @@ window.onload = () => {
             })
         });
     })
-    .catch((error) => {
-      console.log('Petición falló', error);
-    })
 };
 
 function computeUsersStats(dataAlumnas, dataProgress ) {
@@ -181,8 +178,9 @@ window.filterUsers = (users, search) => { // filtrar usuarios
     return users.name.toUpperCase().indexOf(search.toUpperCase()) > -1; 
   });
 };
-// console.log(JSON.stringify(window.filterUsers(series, 'friends')));, probado en ejercicio de series, aún no funciona acá
-  
+ //console.log(JSON.stringify(window.filterUsers(dataUsers, 'li'))); (dataUsers is not define= arreglar)
+
+
 processCohortData = (options) =>{
   return; 
 }; 
