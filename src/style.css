@@ -7,23 +7,3 @@ header {
 h1{
     text-align: center;
 }
-.circulo {
-    height: 100px;
-    width: 100px;
-    background: #FF009E; 
-    margin: 20px;
-    text-align: center;
-}
-.aside{
-    border-right: 1px solid #333333;
-}
-.space{
-    padding: 20% 0;
-}
-.circle{
-    padding: 20px;
-}
-.form-row{
-    padding: 20px;
-}
-

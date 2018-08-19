@@ -1,14 +1,14 @@
 window.onload = () => {
   dataJson();
 }; dataJson = () => {
-  fetch('https://natichan.github.io/scl-2018-05-bc-core-pm-datadashboard/data/cohorts/lim-2018-03-pre-core-pw/users.json') // llamando a la data 
+  fetch('../data/cohorts/lim-2018-03-pre-core-pw/users.json') // llamando a la data 
     .then((response) => {
       response.json()
         .then(dataUsers => {
-          fetch('https://natichan.github.io/scl-2018-05-bc-core-pm-datadashboard/data/cohorts/lim-2018-03-pre-core-pw/progress.json')      
+          fetch('../data/cohorts/lim-2018-03-pre-core-pw/progress.json')      
             .then((response) => response.json())
             .then(progress => {
-              fetch('https://natichan.github.io/scl-2018-05-bc-core-pm-datadashboard/data/cohorts.json')
+              fetch('../data/cohorts.json')
               .then((response) => response.json())
               .then((dataCohorts) => {
                 cohorts = dataCohorts;
